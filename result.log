@@ -1,0 +1,132 @@
+[Welcome]D:\Project\VSCode\KVDBHandler\KVDBHandler\Դ.cpp Now is 2021-01-01 15:16:19:===Start logging===
+[INFO]  D:\Project\VSCode\KVDBHandler\KVDBHandler\Դ.cpp Now is 2021-01-01 15:16:25:int KVDBHandler::set()---Set operation succeeded
+[INFO]  D:\Project\VSCode\KVDBHandler\KVDBHandler\Դ.cpp Now is 2021-01-01 15:16:32:int KVDBHandler::set()---Set operation succeeded
+[INFO]  D:\Project\VSCode\KVDBHandler\KVDBHandler\Դ.cpp Now is 2021-01-01 15:16:37:int KVDBHandler::set()---Set operation succeeded
+[Welcome]D:\Project\VSCode\KVDBHandler\KVDBHandler\Դ.cpp Now is 2021-01-01 15:16:58:===Start logging===
+[INFO]  D:\Project\VSCode\KVDBHandler\KVDBHandler\Դ.cpp Now is 2021-01-01 15:17:02:int KVDBHandler::get()---Get operation succeeded
+[Welcome]D:\Project\VSCode\KVDBHandler\KVDBHandler\Դ.cpp Now is 2021-01-01 15:18:56:===Start logging===
+[INFO]  D:\Project\VSCode\KVDBHandler\KVDBHandler\Դ.cpp Now is 2021-01-01 15:18:58:int KVDBHandler::get()---Get operation succeeded
+[Welcome]D:\Project\VSCode\KVDBHandler\KVDBHandler\Դ.cpp Now is 2021-01-01 15:20:59:===Start logging===
+[INFO]  D:\Project\VSCode\KVDBHandler\KVDBHandler\Դ.cpp Now is 2021-01-01 15:21:04:int KVDBHandler::set()---Set operation succeeded
+[INFO]  D:\Project\VSCode\KVDBHandler\KVDBHandler\Դ.cpp Now is 2021-01-01 15:21:10:Now ready to del
+[INFO]  D:\Project\VSCode\KVDBHandler\KVDBHandler\Դ.cpp Now is 2021-01-01 15:21:10:Delete operation succeeded
+[INFO]  D:\Project\VSCode\KVDBHandler\KVDBHandler\Դ.cpp Now is 2021-01-01 15:21:23:Delete  file success
+[INFO]  D:\Project\VSCode\KVDBHandler\KVDBHandler\Դ.cpp Now is 2021-01-01 15:21:23:Rename file success
+[INFO]  D:\Project\VSCode\KVDBHandler\KVDBHandler\Դ.cpp Now is 2021-01-01 15:21:23:Purge operation succeeded
+[INFO]  D:\Project\VSCode\KVDBHandler\KVDBHandler\Դ.cpp Now is 2021-01-01 15:21:33:int KVDBHandler::get()---Get operation succeeded
+[Welcome]D:\Project\VSCode\KVDBHandler\KVDBHandler\Դ.cpp Now is 2021-01-01 15:23:28:===Start logging===
+[INFO]  D:\Project\VSCode\KVDBHandler\KVDBHandler\Դ.cpp Now is 2021-01-01 15:23:31:Delete  file success
+[INFO]  D:\Project\VSCode\KVDBHandler\KVDBHandler\Դ.cpp Now is 2021-01-01 15:23:31:Rename file success
+[INFO]  D:\Project\VSCode\KVDBHandler\KVDBHandler\Դ.cpp Now is 2021-01-01 15:23:31:Purge operation succeeded
+[INFO]  D:\Project\VSCode\KVDBHandler\KVDBHandler\Դ.cpp Now is 2021-01-01 15:23:42:int KVDBHandler::get()---Get operation succeeded
+[Welcome]D:\Project\VSCode\KVDBHandler\KVDBHandler\Դ.cpp Now is 2021-01-01 15:27:51:===Start logging===
+[INFO]  D:\Project\VSCode\KVDBHandler\KVDBHandler\Դ.cpp Now is 2021-01-01 15:27:52:int KVDBHandler::get()---Get operation succeeded
+[INFO]  D:\Project\VSCode\KVDBHandler\KVDBHandler\Դ.cpp Now is 2021-01-01 15:27:56:int KVDBHandler::get()---Get operation succeeded
+[Welcome]D:\Project\VSCode\KVDBHandler\KVDBHandler\Դ.cpp Now is 2021-01-01 15:39:11:===Start logging===
+[INFO]  D:\Project\VSCode\KVDBHandler\KVDBHandler\Դ.cpp Now is 2021-01-01 15:39:13:int KVDBHandler::get()---Get operation succeeded
+[INFO]  D:\Project\VSCode\KVDBHandler\KVDBHandler\Դ.cpp Now is 2021-01-01 15:39:16:int KVDBHandler::get()---Get operation succeeded
+[Welcome]D:\Project\VSCode\KVDBHandler\KVDBHandler\Դ.cpp Now is 2021-01-02 16:10:11:===Start logging===
+[INFO]  D:\Project\VSCode\KVDBHandler\KVDBHandler\Դ.cpp Now is 2021-01-02 16:10:13:int KVDBHandler::set()---Set operation succeeded
+[INFO]  D:\Project\VSCode\KVDBHandler\KVDBHandler\Դ.cpp Now is 2021-01-02 16:10:16:int KVDBHandler::get()---Get operation succeeded
+[Welcome]D:\Project\VSCode\KVDBHandler\KVDBHandler\Դ.cpp Now is 2021-01-02 16:11:07:===Start logging===
+[INFO]  D:\Project\VSCode\KVDBHandler\KVDBHandler\Դ.cpp Now is 2021-01-02 16:11:08:int KVDBHandler::get()---Get operation succeeded
+[Welcome]D:\Project\VSCode\KVDBHandler\KVDBHandler\Դ.cpp Now is 2021-01-02 16:12:07:===Start logging===
+[INFO]  D:\Project\VSCode\KVDBHandler\KVDBHandler\Դ.cpp Now is 2021-01-02 16:12:09:int KVDBHandler::get()---Get operation succeeded
+[INFO]  D:\Project\VSCode\KVDBHandler\KVDBHandler\Դ.cpp Now is 2021-01-02 16:12:11:int KVDBHandler::get()---Get operation succeeded
+[INFO]  D:\Project\VSCode\KVDBHandler\KVDBHandler\Դ.cpp Now is 2021-01-02 16:12:15:int KVDBHandler::get()---Get operation succeeded
+[INFO]  D:\Project\VSCode\KVDBHandler\KVDBHandler\Դ.cpp Now is 2021-01-02 16:12:17:int KVDBHandler::get()---Get operation succeeded
+[INFO]  D:\Project\VSCode\KVDBHandler\KVDBHandler\Դ.cpp Now is 2021-01-02 16:12:20:int KVDBHandler::set()---Set operation succeeded
+[INFO]  D:\Project\VSCode\KVDBHandler\KVDBHandler\Դ.cpp Now is 2021-01-02 16:12:23:int KVDBHandler::get()---Get operation succeeded
+[INFO]  D:\Project\VSCode\KVDBHandler\KVDBHandler\Դ.cpp Now is 2021-01-02 16:12:27:Now ready to del
+[INFO]  D:\Project\VSCode\KVDBHandler\KVDBHandler\Դ.cpp Now is 2021-01-02 16:12:27:Delete operation succeeded
+[Welcome]D:\Project\VSCode\KVDBHandler\KVDBHandler\Դ.cpp Now is 2021-01-02 16:14:52:===Start logging===
+[INFO]  D:\Project\VSCode\KVDBHandler\KVDBHandler\Դ.cpp Now is 2021-01-02 16:14:53:int KVDBHandler::get()---Get operation succeeded
+[INFO]  D:\Project\VSCode\KVDBHandler\KVDBHandler\Դ.cpp Now is 2021-01-02 16:14:55:int KVDBHandler::get()---Get operation succeeded
+[Welcome]D:\Project\VSCode\KVDBHandler\KVDBHandler\Դ.cpp Now is 2021-01-02 16:15:33:===Start logging===
+[INFO]  D:\Project\VSCode\KVDBHandler\KVDBHandler\Դ.cpp Now is 2021-01-02 16:17:15:int KVDBHandler::get()---Get operation succeeded
+[Welcome]D:\Project\VSCode\KVDBHandler\KVDBHandler\Դ.cpp Now is 2021-01-02 16:18:17:===Start logging===
+[INFO]  D:\Project\VSCode\KVDBHandler\KVDBHandler\Դ.cpp Now is 2021-01-02 16:18:19:int KVDBHandler::get()---Get operation succeeded
+[INFO]  D:\Project\VSCode\KVDBHandler\KVDBHandler\Դ.cpp Now is 2021-01-02 16:18:21:int KVDBHandler::get()---Get operation succeeded
+[INFO]  D:\Project\VSCode\KVDBHandler\KVDBHandler\Դ.cpp Now is 2021-01-02 16:18:23:int KVDBHandler::get()---Get operation succeeded
+[INFO]  D:\Project\VSCode\KVDBHandler\KVDBHandler\Դ.cpp Now is 2021-01-02 16:18:26:int KVDBHandler::get()---Get operation succeeded
+[Welcome]D:\Project\VSCode\KVDBHandler\KVDBHandler\Դ.cpp Now is 2021-01-02 16:26:17:===Start logging===
+[INFO]  D:\Project\VSCode\KVDBHandler\KVDBHandler\Դ.cpp Now is 2021-01-02 16:26:18:int KVDBHandler::get()---Get operation succeeded
+[INFO]  D:\Project\VSCode\KVDBHandler\KVDBHandler\Դ.cpp Now is 2021-01-02 16:26:20:int KVDBHandler::get()---Get operation succeeded
+[INFO]  D:\Project\VSCode\KVDBHandler\KVDBHandler\Դ.cpp Now is 2021-01-02 16:26:22:int KVDBHandler::get()---Get operation succeeded
+[INFO]  D:\Project\VSCode\KVDBHandler\KVDBHandler\Դ.cpp Now is 2021-01-02 16:26:23:int KVDBHandler::get()---Get operation succeeded
+[INFO]  D:\Project\VSCode\KVDBHandler\KVDBHandler\Դ.cpp Now is 2021-01-02 16:26:27:Delete  file success
+[INFO]  D:\Project\VSCode\KVDBHandler\KVDBHandler\Դ.cpp Now is 2021-01-02 16:26:27:Rename file success
+[INFO]  D:\Project\VSCode\KVDBHandler\KVDBHandler\Դ.cpp Now is 2021-01-02 16:26:27:Purge operation succeeded
+[Welcome]D:\Project\VSCode\KVDBHandler\KVDBHandler\Դ.cpp Now is 2021-01-02 16:26:53:===Start logging===
+[INFO]  D:\Project\VSCode\KVDBHandler\KVDBHandler\Դ.cpp Now is 2021-01-02 16:26:55:int KVDBHandler::get()---Get operation succeeded
+[INFO]  D:\Project\VSCode\KVDBHandler\KVDBHandler\Դ.cpp Now is 2021-01-02 16:27:00:int KVDBHandler::get()---Get operation succeeded
+[INFO]  D:\Project\VSCode\KVDBHandler\KVDBHandler\Դ.cpp Now is 2021-01-02 16:27:03:int KVDBHandler::get()---Get operation succeeded
+[INFO]  D:\Project\VSCode\KVDBHandler\KVDBHandler\Դ.cpp Now is 2021-01-02 16:27:05:int KVDBHandler::get()---Get operation succeeded
+[Welcome]D:\Project\VSCode\KVDBHandler\KVDBHandler\Դ.cpp Now is 2021-01-02 16:30:52:===Start logging===
+[INFO]  D:\Project\VSCode\KVDBHandler\KVDBHandler\Դ.cpp Now is 2021-01-02 16:30:54:int KVDBHandler::get()---Get operation succeeded
+[INFO]  D:\Project\VSCode\KVDBHandler\KVDBHandler\Դ.cpp Now is 2021-01-02 16:30:58:int KVDBHandler::set()---Set operation succeeded
+[INFO]  D:\Project\VSCode\KVDBHandler\KVDBHandler\Դ.cpp Now is 2021-01-02 16:30:59:int KVDBHandler::get()---Get operation succeeded
+[INFO]  D:\Project\VSCode\KVDBHandler\KVDBHandler\Դ.cpp Now is 2021-01-02 16:31:05:int KVDBHandler::set()---Set operation succeeded
+[INFO]  D:\Project\VSCode\KVDBHandler\KVDBHandler\Դ.cpp Now is 2021-01-02 16:31:09:int KVDBHandler::set()---Set operation succeeded
+[INFO]  D:\Project\VSCode\KVDBHandler\KVDBHandler\Դ.cpp Now is 2021-01-02 16:31:12:Delete  file success
+[INFO]  D:\Project\VSCode\KVDBHandler\KVDBHandler\Դ.cpp Now is 2021-01-02 16:31:12:Rename file success
+[INFO]  D:\Project\VSCode\KVDBHandler\KVDBHandler\Դ.cpp Now is 2021-01-02 16:31:12:Purge operation succeeded
+[INFO]  D:\Project\VSCode\KVDBHandler\KVDBHandler\Դ.cpp Now is 2021-01-02 16:31:17:int KVDBHandler::set()---Set operation succeeded
+[INFO]  D:\Project\VSCode\KVDBHandler\KVDBHandler\Դ.cpp Now is 2021-01-02 16:31:19:int KVDBHandler::get()---Get operation succeeded
+[Welcome]D:\Project\VSCode\KVDBHandler\KVDBHandler\Դ.cpp Now is 2021-01-02 16:32:19:===Start logging===
+[INFO]  D:\Project\VSCode\KVDBHandler\KVDBHandler\Դ.cpp Now is 2021-01-02 16:32:21:int KVDBHandler::get()---Get operation succeeded
+[INFO]  D:\Project\VSCode\KVDBHandler\KVDBHandler\Դ.cpp Now is 2021-01-02 16:32:23:int KVDBHandler::get()---Get operation succeeded
+[INFO]  D:\Project\VSCode\KVDBHandler\KVDBHandler\Դ.cpp Now is 2021-01-02 16:32:25:int KVDBHandler::get()---Get operation succeeded
+[INFO]  D:\Project\VSCode\KVDBHandler\KVDBHandler\Դ.cpp Now is 2021-01-02 16:32:43:int KVDBHandler::set()---Set operation succeeded
+[INFO]  D:\Project\VSCode\KVDBHandler\KVDBHandler\Դ.cpp Now is 2021-01-02 16:32:47:int KVDBHandler::get()---Get operation succeeded
+[INFO]  D:\Project\VSCode\KVDBHandler\KVDBHandler\Դ.cpp Now is 2021-01-02 16:32:51:Delete  file success
+[INFO]  D:\Project\VSCode\KVDBHandler\KVDBHandler\Դ.cpp Now is 2021-01-02 16:32:51:Rename file success
+[INFO]  D:\Project\VSCode\KVDBHandler\KVDBHandler\Դ.cpp Now is 2021-01-02 16:32:52:Purge operation succeeded
+[Welcome]D:\Project\VSCode\KVDBHandler\KVDBHandler\Դ.cpp Now is 2021-01-02 16:35:01:===Start logging===
+[INFO]  D:\Project\VSCode\KVDBHandler\KVDBHandler\Դ.cpp Now is 2021-01-02 16:35:03:int KVDBHandler::get()---Get operation succeeded
+[INFO]  D:\Project\VSCode\KVDBHandler\KVDBHandler\Դ.cpp Now is 2021-01-02 16:35:05:int KVDBHandler::get()---Get operation succeeded
+[INFO]  D:\Project\VSCode\KVDBHandler\KVDBHandler\Դ.cpp Now is 2021-01-02 16:35:07:int KVDBHandler::get()---Get operation succeeded
+[INFO]  D:\Project\VSCode\KVDBHandler\KVDBHandler\Դ.cpp Now is 2021-01-02 16:35:09:int KVDBHandler::get()---Get operation succeeded
+[INFO]  D:\Project\VSCode\KVDBHandler\KVDBHandler\Դ.cpp Now is 2021-01-02 16:35:11:Delete  file success
+[INFO]  D:\Project\VSCode\KVDBHandler\KVDBHandler\Դ.cpp Now is 2021-01-02 16:35:11:Rename file success
+[INFO]  D:\Project\VSCode\KVDBHandler\KVDBHandler\Դ.cpp Now is 2021-01-02 16:35:11:Purge operation succeeded
+[INFO]  D:\Project\VSCode\KVDBHandler\KVDBHandler\Դ.cpp Now is 2021-01-02 16:35:13:int KVDBHandler::get()---Get operation succeeded
+[INFO]  D:\Project\VSCode\KVDBHandler\KVDBHandler\Դ.cpp Now is 2021-01-02 16:35:15:int KVDBHandler::get()---Get operation succeeded
+[Welcome]D:\Project\VSCode\KVDBHandler\KVDBHandler\Դ.cpp Now is 2021-01-02 22:29:47:===Start logging===
+[INFO]  D:\Project\VSCode\KVDBHandler\KVDBHandler\Դ.cpp Now is 2021-01-02 22:29:56:int KVDBHandler::set()---Set operation succeeded
+[INFO]  D:\Project\VSCode\KVDBHandler\KVDBHandler\Դ.cpp Now is 2021-01-02 22:30:06:int KVDBHandler::set()---Set operation succeeded
+[INFO]  D:\Project\VSCode\KVDBHandler\KVDBHandler\Դ.cpp Now is 2021-01-02 22:30:17:int KVDBHandler::get()---Get operation succeeded
+[INFO]  D:\Project\VSCode\KVDBHandler\KVDBHandler\Դ.cpp Now is 2021-01-02 22:30:22:int KVDBHandler::get()---Get operation succeeded
+[INFO]  D:\Project\VSCode\KVDBHandler\KVDBHandler\Դ.cpp Now is 2021-01-02 22:30:28:Now ready to del
+[INFO]  D:\Project\VSCode\KVDBHandler\KVDBHandler\Դ.cpp Now is 2021-01-02 22:30:28:Delete operation succeeded
+[INFO]  D:\Project\VSCode\KVDBHandler\KVDBHandler\Դ.cpp Now is 2021-01-02 22:30:32:int KVDBHandler::get()---Get operation succeeded
+[INFO]  D:\Project\VSCode\KVDBHandler\KVDBHandler\Դ.cpp Now is 2021-01-02 22:37:55:int KVDBHandler::set()---Set operation succeeded
+[INFO]  D:\Project\VSCode\KVDBHandler\KVDBHandler\Դ.cpp Now is 2021-01-02 22:38:00:int KVDBHandler::set()---Set operation succeeded
+[INFO]  D:\Project\VSCode\KVDBHandler\KVDBHandler\Դ.cpp Now is 2021-01-02 22:38:04:int KVDBHandler::set()---Set operation succeeded
+[INFO]  D:\Project\VSCode\KVDBHandler\KVDBHandler\Դ.cpp Now is 2021-01-02 22:38:08:Now ready to del
+[INFO]  D:\Project\VSCode\KVDBHandler\KVDBHandler\Դ.cpp Now is 2021-01-02 22:38:08:Delete operation succeeded
+[INFO]  D:\Project\VSCode\KVDBHandler\KVDBHandler\Դ.cpp Now is 2021-01-02 22:38:13:Now ready to del
+[INFO]  D:\Project\VSCode\KVDBHandler\KVDBHandler\Դ.cpp Now is 2021-01-02 22:38:13:Delete operation succeeded
+[INFO]  D:\Project\VSCode\KVDBHandler\KVDBHandler\Դ.cpp Now is 2021-01-02 22:38:18:Delete  file success
+[INFO]  D:\Project\VSCode\KVDBHandler\KVDBHandler\Դ.cpp Now is 2021-01-02 22:38:18:Rename file success
+[INFO]  D:\Project\VSCode\KVDBHandler\KVDBHandler\Դ.cpp Now is 2021-01-02 22:38:18:Purge operation succeeded
+[Welcome]D:\Project\VSCode\KVDBHandler\KVDBHandler\Դ.cpp Now is 2021-01-02 22:52:38:===Start logging===
+[INFO]  D:\Project\VSCode\KVDBHandler\KVDBHandler\Դ.cpp Now is 2021-01-02 22:52:46:int KVDBHandler::get()---Get operation succeeded
+[INFO]  D:\Project\VSCode\KVDBHandler\KVDBHandler\Դ.cpp Now is 2021-01-02 22:52:49:int KVDBHandler::get()---Get operation succeeded
+[INFO]  D:\Project\VSCode\KVDBHandler\KVDBHandler\Դ.cpp Now is 2021-01-02 22:52:52:Now ready to del
+[INFO]  D:\Project\VSCode\KVDBHandler\KVDBHandler\Դ.cpp Now is 2021-01-02 22:52:52:Delete operation succeeded
+[INFO]  D:\Project\VSCode\KVDBHandler\KVDBHandler\Դ.cpp Now is 2021-01-02 22:52:53:int KVDBHandler::get()---Get operation succeeded
+[INFO]  D:\Project\VSCode\KVDBHandler\KVDBHandler\Դ.cpp Now is 2021-01-02 22:58:46:int KVDBHandler::set()---Set operation succeeded
+[INFO]  D:\Project\VSCode\KVDBHandler\KVDBHandler\Դ.cpp Now is 2021-01-02 22:59:01:int KVDBHandler::get()---Get operation succeeded
+[INFO]  D:\Project\VSCode\KVDBHandler\KVDBHandler\Դ.cpp Now is 2021-01-02 22:59:07:int KVDBHandler::get()---Get operation succeeded
+[INFO]  D:\Project\VSCode\KVDBHandler\KVDBHandler\Դ.cpp Now is 2021-01-02 22:59:09:Now ready to del
+[INFO]  D:\Project\VSCode\KVDBHandler\KVDBHandler\Դ.cpp Now is 2021-01-02 22:59:09:Delete operation succeeded
+[INFO]  D:\Project\VSCode\KVDBHandler\KVDBHandler\Դ.cpp Now is 2021-01-02 22:59:11:int KVDBHandler::get()---Get operation succeeded
+[INFO]  D:\Project\VSCode\KVDBHandler\KVDBHandler\Դ.cpp Now is 2021-01-02 23:03:15:int KVDBHandler::set()---Set operation succeeded
+[INFO]  D:\Project\VSCode\KVDBHandler\KVDBHandler\Դ.cpp Now is 2021-01-02 23:03:34:Now ready to del
+[INFO]  D:\Project\VSCode\KVDBHandler\KVDBHandler\Դ.cpp Now is 2021-01-02 23:03:34:Delete operation succeeded
+[INFO]  D:\Project\VSCode\KVDBHandler\KVDBHandler\Դ.cpp Now is 2021-01-02 23:03:39:int KVDBHandler::get()---Get operation succeeded
+[INFO]  D:\Project\VSCode\KVDBHandler\KVDBHandler\Դ.cpp Now is 2021-01-02 23:06:33:int KVDBHandler::set()---Set operation succeeded
+[INFO]  D:\Project\VSCode\KVDBHandler\KVDBHandler\Դ.cpp Now is 2021-01-02 23:06:45:int KVDBHandler::set()---Set operation succeeded
+[INFO]  D:\Project\VSCode\KVDBHandler\KVDBHandler\Դ.cpp Now is 2021-01-02 23:06:52:int KVDBHandler::get()---Get operation succeeded
+[INFO]  D:\Project\VSCode\KVDBHandler\KVDBHandler\Դ.cpp Now is 2021-01-02 23:06:56:int KVDBHandler::get()---Get operation succeeded

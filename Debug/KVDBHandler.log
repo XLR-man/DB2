@@ -1,0 +1,8 @@
+﻿  源.cpp
+D:\Project\VSCode\KVDBHandler\KVDBHandler\源.cpp(40,27): warning C4244: “=”: 从“time_t”转换到“int”，可能丢失数据
+D:\Project\VSCode\KVDBHandler\KVDBHandler\源.cpp(89,34): warning C4244: “=”: 从“std::streamoff”转换到“int”，可能丢失数据
+D:\Project\VSCode\KVDBHandler\KVDBHandler\源.cpp(249,32): warning C4244: “初始化”: 从“std::streamoff”转换到“int”，可能丢失数据
+D:\Project\VSCode\KVDBHandler\KVDBHandler\源.cpp(381,28): warning C4244: “初始化”: 从“std::streamoff”转换到“int”，可能丢失数据
+D:\Project\VSCode\KVDBHandler\KVDBHandler\源.cpp(579,18): warning C4244: “初始化”: 从“time_t”转换到“int”，可能丢失数据
+D:\Project\VSCode\KVDBHandler\KVDBHandler\源.cpp(611,25): warning C4244: “初始化”: 从“time_t”转换到“int”，可能丢失数据
+  KVDBHandler.vcxproj -> D:\Project\VSCode\KVDBHandler\Debug\KVDBHandler.exe
